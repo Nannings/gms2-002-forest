@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "9c554c33-a999-4f93-a666-c6acf921fe3b",
+            "Value": {
+                "id": "31debf4c-99c2-495e-b43f-854171241715",
+                "resourcePath": "sprites\\s_player_attack_down\\s_player_attack_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a243359b-ac3f-4b60-85fb-3ae550301e80",
             "Value": {
                 "id": "a8fce52d-c732-416c-a3b6-8a8ffbe08362",
@@ -396,6 +404,22 @@
                 "id": "706ec8f8-ddff-491b-a0c7-359160b64135",
                 "resourcePath": "views\\d1e8750d-b203-4b60-9a95-b316b8db0eca.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d53db6b2-808a-47d2-9567-a55decd11f5a",
+            "Value": {
+                "id": "59bba824-f6a1-4d7c-bc04-f67fab29473c",
+                "resourcePath": "sprites\\s_player_attack_right\\s_player_attack_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dbaa0e39-20d0-49bc-962c-d5eb01495e49",
+            "Value": {
+                "id": "3a90de3e-2a1e-4d3e-ab05-69f0f02ee703",
+                "resourcePath": "sprites\\s_player_attack_up\\s_player_attack_up.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

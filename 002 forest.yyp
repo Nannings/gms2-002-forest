@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "25c0d80b-b58a-4d73-a64a-ac4cd268bf60",
+            "Value": {
+                "id": "04c34353-f525-4c0a-95ab-8b50768ced97",
+                "resourcePath": "sprites\\s_player_roll_right\\s_player_roll_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "283bdf39-9218-4118-9016-da36d324619e",
             "Value": {
                 "id": "652dfeb2-6fe9-48d8-b04b-8364ab65282c",
@@ -199,6 +207,14 @@
             }
         },
         {
+            "Key": "61ebbf87-6eb0-4d66-9ee5-97d7e98b644c",
+            "Value": {
+                "id": "9b2e021f-4082-47a3-80c1-467726611271",
+                "resourcePath": "sprites\\s_player_roll_down\\s_player_roll_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6560db38-98e6-4f8a-8fcc-9d8dcc82363a",
             "Value": {
                 "id": "d55c73d4-24b7-47b8-9f9d-cc207f5aeea1",
@@ -276,6 +292,14 @@
                 "id": "aa732c90-d7b3-46a9-b0d8-514091b41598",
                 "resourcePath": "scripts\\apply_friction_to_movement_entity\\apply_friction_to_movement_entity.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "82abfb42-d83e-4544-afda-9c55c283683c",
+            "Value": {
+                "id": "f9c4c2e8-976d-48ed-8b9d-16425b4377b4",
+                "resourcePath": "sprites\\s_player_roll_up\\s_player_roll_up.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

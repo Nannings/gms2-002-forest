@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "ae0a5b46-e5ae-4c69-a3f3-0f9830818e69",
+            "Value": {
+                "id": "9b415c39-d972-43e0-ace7-bd14cb4c5a27",
+                "resourcePath": "sprites\\s_grass\\s_grass.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "afe0c039-7cf7-4dac-a188-510ff1e2966c",
             "Value": {
                 "id": "ee767383-009f-4589-af11-680e599eb82b",
@@ -436,6 +444,14 @@
                 "id": "59bba824-f6a1-4d7c-bc04-f67fab29473c",
                 "resourcePath": "sprites\\s_player_attack_right\\s_player_attack_right.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d8a5db4a-d7eb-461f-a7b6-70746cb80ad6",
+            "Value": {
+                "id": "1d617861-89bc-4f6a-90a0-8ed87c4ce2fc",
+                "resourcePath": "objects\\o_grass\\o_grass.yy",
+                "resourceType": "GMObject"
             }
         },
         {

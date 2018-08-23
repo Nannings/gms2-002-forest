@@ -1,7 +1,7 @@
 /// @description Idle state
 
 image_index = 0;
-image_speed = 0;
+//image_speed = 0;
 
 if alarm[1] <= 0
 {

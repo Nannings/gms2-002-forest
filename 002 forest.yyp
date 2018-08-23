@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "967b95c6-f4e7-4df5-98bc-7342d246f2a7",
+            "Value": {
+                "id": "f211ab22-09d3-47b6-b3ef-3a8b0b20ea07",
+                "resourcePath": "scripts\\initialize_hurtbox_entity\\initialize_hurtbox_entity.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "97915028-e2e1-4ed8-ab9f-a4962644bc58",
             "Value": {
                 "id": "2e4a9b38-b499-420f-a5fb-e710c17fb3d4",
@@ -511,6 +519,14 @@
             }
         },
         {
+            "Key": "b8f3d7c3-8dba-4201-a613-4ad04a7061b7",
+            "Value": {
+                "id": "f567d5c0-19d9-43e1-88e0-63a4af4aa974",
+                "resourcePath": "scripts\\hurtbox_entity_can_be_hit_by\\hurtbox_entity_can_be_hit_by.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ba4aa89a-bd02-4250-8b98-0bb7886dc506",
             "Value": {
                 "id": "e340a862-8bd3-433f-a1f5-594ee6b20836",
@@ -559,6 +575,14 @@
             }
         },
         {
+            "Key": "d7a1009c-8e59-4056-84d8-78879af86ee7",
+            "Value": {
+                "id": "c42403a4-0bb9-4f37-9c86-a1c060f5697c",
+                "resourcePath": "scripts\\is_target\\is_target.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d8a5db4a-d7eb-461f-a7b6-70746cb80ad6",
             "Value": {
                 "id": "1d617861-89bc-4f6a-90a0-8ed87c4ce2fc",
@@ -604,6 +628,14 @@
                 "id": "a08be6f3-5cd8-4a15-b878-b1af957a1c6d",
                 "resourcePath": "datafiles_yy\\initialize_movement_entity.yy.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "edf91618-16cd-4c9f-bca3-b8fc738edc8e",
+            "Value": {
+                "id": "7bb43994-7265-41b6-a276-c78a2e0dc8bb",
+                "resourcePath": "views\\edf91618-16cd-4c9f-bca3-b8fc738edc8e.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -656,8 +688,11 @@
         "41efff4d-ca17-4ab1-b12a-5ad5f8a8c30a",
         "55cf0bc9-38b5-450e-8816-aba309e7ebbb",
         "aae3e556-0521-4134-8bb2-319f1d0bdfdd",
+        "73a0f349-7076-4a12-ab45-c37d554cc599",
         "f7cf0a04-0abf-4b93-9aa6-68d951662387",
-        "73a0f349-7076-4a12-ab45-c37d554cc599"
+        "d7a1009c-8e59-4056-84d8-78879af86ee7",
+        "967b95c6-f4e7-4df5-98bc-7342d246f2a7",
+        "b8f3d7c3-8dba-4201-a613-4ad04a7061b7"
     ],
     "tutorial": ""
 }

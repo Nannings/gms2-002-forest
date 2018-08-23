@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "554e07d2-bc1d-4d2e-894e-4f4307b17b10",
+            "Value": {
+                "id": "715adc01-ba1c-433d-be5f-f0f95590d607",
+                "resourcePath": "sprites\\s_porcupine_attack\\s_porcupine_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "55cf0bc9-38b5-450e-8816-aba309e7ebbb",
             "Value": {
                 "id": "10da40e2-28b1-46f4-a51d-11ef8706369e",
@@ -308,6 +316,14 @@
                 "id": "327c12ac-70d3-4c37-b97e-46a509ad967d",
                 "resourcePath": "datafiles_yy\\move_movement_entity.yy.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "73a0f349-7076-4a12-ab45-c37d554cc599",
+            "Value": {
+                "id": "235860c0-1e55-41a6-8c28-20a0bb350b32",
+                "resourcePath": "scripts\\porcupine_attack\\porcupine_attack.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -640,7 +656,8 @@
         "41efff4d-ca17-4ab1-b12a-5ad5f8a8c30a",
         "55cf0bc9-38b5-450e-8816-aba309e7ebbb",
         "aae3e556-0521-4134-8bb2-319f1d0bdfdd",
-        "f7cf0a04-0abf-4b93-9aa6-68d951662387"
+        "f7cf0a04-0abf-4b93-9aa6-68d951662387",
+        "73a0f349-7076-4a12-ab45-c37d554cc599"
     ],
     "tutorial": ""
 }

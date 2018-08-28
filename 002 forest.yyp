@@ -658,7 +658,7 @@
             "Key": "a5d0e36e-100e-47e1-aa48-e75ee312588f",
             "Value": {
                 "id": "b57f4f2d-2035-4b71-b981-8dea343132e4",
-                "resourcePath": "sounds\\Music\\Music.yy",
+                "resourcePath": "sounds\\a_music\\a_music.yy",
                 "resourceType": "GMSound"
             }
         },

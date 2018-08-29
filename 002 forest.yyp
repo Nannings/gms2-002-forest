@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0da6fddf-2cf4-41ec-ac7f-f6210d1bc077",
+            "Value": {
+                "id": "62a6a2ea-7236-4f1f-818c-1bae7ad45d86",
+                "resourcePath": "sprites\\s_start_position\\s_start_position.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0f4d2fb6-a5d3-4386-afbf-a63be8617a34",
             "Value": {
                 "id": "1f63995a-c172-4e40-9012-3387917bde96",
@@ -76,6 +84,14 @@
                 "id": "4ee24690-68b7-46cf-8b44-7ba2ca736312",
                 "resourcePath": "views\\ba4aa89a-bd02-4250-8b98-0bb7886dc506-room.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "11e5e10a-199f-4216-befc-f9bddbbcd0d6",
+            "Value": {
+                "id": "9ee7e7e7-b92c-4038-b7cd-66afa652e3ba",
+                "resourcePath": "rooms\\r_sword\\r_sword.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -607,6 +623,14 @@
             }
         },
         {
+            "Key": "996f42ec-e8ec-4473-989d-8698918851e2",
+            "Value": {
+                "id": "8dc7bfa8-daa6-4380-ba50-c5bfe62066aa",
+                "resourcePath": "objects\\o_door\\o_door.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b65d754-7f40-41e4-adb1-e1a0d28c83f0",
             "Value": {
                 "id": "3c174896-4ad1-42ce-a64a-1021c5949ee9",
@@ -919,10 +943,26 @@
             }
         },
         {
+            "Key": "ed649bb5-b98c-43ea-b372-01b1be643240",
+            "Value": {
+                "id": "f6270381-fd60-468f-84d7-92a17680f808",
+                "resourcePath": "objects\\o_start_position\\o_start_position.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "edf91618-16cd-4c9f-bca3-b8fc738edc8e",
             "Value": {
                 "id": "7bb43994-7265-41b6-a276-c78a2e0dc8bb",
                 "resourcePath": "views\\edf91618-16cd-4c9f-bca3-b8fc738edc8e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ef9cc65e-ae7e-49f7-9d9a-cdb0a62b23e2",
+            "Value": {
+                "id": "96d36845-c9dd-41a4-9770-de3f1c9cefa8",
+                "resourcePath": "views\\ef9cc65e-ae7e-49f7-9d9a-cdb0a62b23e2.yy",
                 "resourceType": "GMFolder"
             }
         },

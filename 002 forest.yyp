@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "11b551b4-7a9f-4d21-981c-870a1dcf8ff0",
+            "Value": {
+                "id": "4ee24690-68b7-46cf-8b44-7ba2ca736312",
+                "resourcePath": "views\\ba4aa89a-bd02-4250-8b98-0bb7886dc506-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "12ece3a6-2e77-4b7d-9b0e-13e6755aa692",
             "Value": {
                 "id": "f5c4d284-dded-4b2c-b93f-cc21b8accdd5",
@@ -628,6 +636,14 @@
                 "id": "f044703e-e900-4419-8311-cc237bd67ca4",
                 "resourcePath": "sounds\\Menu_Move\\Menu_Move.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "9f195e21-fdd0-4e83-872d-60d7a01c0289",
+            "Value": {
+                "id": "c389a389-af03-4d70-983e-77f1e6db4b85",
+                "resourcePath": "rooms\\r_world\\r_world.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

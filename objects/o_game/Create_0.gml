@@ -7,6 +7,6 @@ global.player_max_stamina = 2;
 global.player_stamina = global.player_max_stamina;
 global.player_gems = 0;
 
-audio_play_sound(a_music, 10, true);
+//audio_play_sound(a_music, 10, true);
 
 audio_group_set_gain(audiogroup_default, .1, 0);

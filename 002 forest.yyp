@@ -50,7 +50,7 @@
             "Key": "09030ca0-c646-4712-a260-927dbd496ad0",
             "Value": {
                 "id": "262df9a3-f627-4387-8231-2f2a2d169433",
-                "resourcePath": "sounds\\Unpause\\Unpause.yy",
+                "resourcePath": "sounds\\a_unpause\\a_unpause.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -338,7 +338,7 @@
             "Key": "474cc536-eacb-4910-bea5-65c33a4228b2",
             "Value": {
                 "id": "433c2da3-88e5-472f-be7b-85e7022c763e",
-                "resourcePath": "sounds\\Pause\\Pause.yy",
+                "resourcePath": "sounds\\a_pause\\a_pause.yy",
                 "resourceType": "GMSound"
             }
         },

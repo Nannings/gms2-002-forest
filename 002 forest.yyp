@@ -562,7 +562,7 @@
             "Key": "6b8d319a-a440-40ae-b2d0-8a9c1bac6cc3",
             "Value": {
                 "id": "0afe58cd-b576-47cd-a6e2-32f1ac00433a",
-                "resourcePath": "sprites\\s_font_strip70\\s_font_strip70.yy",
+                "resourcePath": "sprites\\s_font\\s_font.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1226,7 +1226,7 @@
             "Key": "f9f1f954-4f6c-4ce0-b0d2-8449013b1480",
             "Value": {
                 "id": "d0351dce-203d-4923-942c-28106cca7e2a",
-                "resourcePath": "sprites\\s_heart_ui_strip2\\s_heart_ui_strip2.yy",
+                "resourcePath": "sprites\\s_heart_ui\\s_heart_ui.yy",
                 "resourceType": "GMSprite"
             }
         },

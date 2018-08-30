@@ -2,7 +2,7 @@
     "id": "6b8d319a-a440-40ae-b2d0-8a9c1bac6cc3",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "s_font_strip70",
+    "name": "s_font",
     "For3D": false,
     "HTile": false,
     "VTile": false,

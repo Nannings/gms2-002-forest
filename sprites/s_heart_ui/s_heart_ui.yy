@@ -2,7 +2,7 @@
     "id": "f9f1f954-4f6c-4ce0-b0d2-8449013b1480",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "s_heart_ui_strip2",
+    "name": "s_heart_ui",
     "For3D": false,
     "HTile": false,
     "VTile": false,

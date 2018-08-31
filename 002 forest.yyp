@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "38e7b262-690b-486c-97ba-39e77885d4ca",
+            "Value": {
+                "id": "40910f97-18fc-400e-924e-6eea7051b25d",
+                "resourcePath": "objects\\o_bomb_item\\o_bomb_item.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3e5741f1-9c79-43f1-927e-59d300dde21f",
             "Value": {
                 "id": "abddbb92-12f3-4f54-9ecc-3e8e40dc641a",
@@ -404,6 +412,14 @@
                 "id": "051cfaa7-f2c3-4814-9590-99524aa683bd",
                 "resourcePath": "sprites\\s_player_run_right\\s_player_run_right.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4ca98d63-9965-4322-814c-b68c5f0377aa",
+            "Value": {
+                "id": "eb4cc675-147f-4122-8b71-66124abf009e",
+                "resourcePath": "scripts\\inventory_draw\\inventory_draw.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1143,6 +1159,14 @@
             }
         },
         {
+            "Key": "d5ac5a8e-2a86-4779-8f84-39eca33a8bfa",
+            "Value": {
+                "id": "24029164-cab9-43c4-9179-dc2a2f9e4645",
+                "resourcePath": "objects\\o_sword_item\\o_sword_item.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d7a1009c-8e59-4056-84d8-78879af86ee7",
             "Value": {
                 "id": "c42403a4-0bb9-4f37-9c86-a1c060f5697c",
@@ -1324,7 +1348,8 @@
         "cd39be31-013e-4f54-9ec2-f464dcfc5a3c",
         "9cba2eb2-7331-4552-a090-c2ae83706e30",
         "29d90347-7118-4530-95f7-1e1a7463794f",
-        "114466c1-2ada-4295-a931-e96260323dfd"
+        "114466c1-2ada-4295-a931-e96260323dfd",
+        "4ca98d63-9965-4322-814c-b68c5f0377aa"
     ],
     "tutorial": ""
 }

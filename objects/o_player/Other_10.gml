@@ -25,17 +25,7 @@ else
 	roll_direction_ = _input_direction;
 }
 
-if _attack_input == true
-{
-	image_index = 0;
-	state_ = player.sword;
-}
-
-if _roll_input == true
-{
-	image_index = 0;
-	state_ = player.evade;
-}
-
+inventory_use_item(o_input.action_one_pressed_, global.item[0]);
+inventory_use_item(o_input.action_two_pressed_, global.item[1]);
 
 move_movement_entity(false);

@@ -1,12 +1,12 @@
 ///@arg size
 var _size = argument0;
-global.inventory = [];
+//global.inventory = [];
 
-var _i = 0;
-repeat (_size)
-{
-	global.inventory[_i] = noone;
-	_i++;	
-}
+//var _i = 0;
+//repeat (_size)
+//{
+//	global.inventory[_i] = noone;
+//	_i++;	
+//}
 
-//global.inventory = array_create(_size, noone);
+global.inventory = array_create(_size, noone);

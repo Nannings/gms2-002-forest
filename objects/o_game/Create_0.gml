@@ -24,6 +24,8 @@ paused_ = false;
 paused_sprite_ = noone;
 paused_sprite_scale = display_get_gui_width() / view_wport[0];
 
+global.item = array_create(2, noone)
+item_index_ = 0;
 inventory_create(6);
 inventory_add_item(o_ring_item);
 inventory_add_item(o_sword_item);

@@ -2,7 +2,7 @@
     "id": "18e91c4c-f334-4302-9609-164b35436db9",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "Explosion",
+    "name": "a_explosion",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,

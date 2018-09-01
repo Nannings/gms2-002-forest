@@ -146,7 +146,7 @@
             "Key": "18e91c4c-f334-4302-9609-164b35436db9",
             "Value": {
                 "id": "e15f1e19-6328-4fc1-9fe6-49b9589aecdc",
-                "resourcePath": "sounds\\Explosion\\Explosion.yy",
+                "resourcePath": "sounds\\a_explosion\\a_explosion.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -762,7 +762,7 @@
             "Key": "8bdf8092-5c54-43e3-82ca-e07b0e70f0a6",
             "Value": {
                 "id": "cc3448b7-98cf-44a9-a889-4f8e85cfee15",
-                "resourcePath": "sounds\\Set_Bomb\\Set_Bomb.yy",
+                "resourcePath": "sounds\\a_set_bomb\\a_set_bomb.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -876,6 +876,14 @@
                 "id": "6f41b920-fd49-4c91-801b-14a78e631904",
                 "resourcePath": "sprites\\s_inventory_box\\s_inventory_box.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9dc0f9fd-8ca6-4095-a32c-be41b988cf6b",
+            "Value": {
+                "id": "bd53d878-30d4-418c-b780-83047a076913",
+                "resourcePath": "objects\\o_bomb\\o_bomb.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -402,7 +402,7 @@
             "Key": "48414aa6-0b97-487b-9bb2-6834507d2ce7",
             "Value": {
                 "id": "8c0dacf0-60bd-48ea-acb6-b5d323d15734",
-                "resourcePath": "sprites\\s_stamina_ui_strip2\\s_stamina_ui_strip2.yy",
+                "resourcePath": "sprites\\s_stamina_ui\\s_stamina_ui.yy",
                 "resourceType": "GMSprite"
             }
         },

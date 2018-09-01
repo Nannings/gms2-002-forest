@@ -2,7 +2,7 @@
     "id": "48414aa6-0b97-487b-9bb2-6834507d2ce7",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "s_stamina_ui_strip2",
+    "name": "s_stamina_ui",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -983,6 +983,14 @@
             }
         },
         {
+            "Key": "aa0a25f4-5cea-46b9-a24b-43e1851ff47d",
+            "Value": {
+                "id": "864a7b03-c3a4-4285-84a2-cfe210a3129c",
+                "resourcePath": "scripts\\set_sprite_facing\\set_sprite_facing.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "aae3e556-0521-4134-8bb2-319f1d0bdfdd",
             "Value": {
                 "id": "630b953a-0d5f-432a-b595-36d086489d02",
@@ -1398,7 +1406,8 @@
         "29d90347-7118-4530-95f7-1e1a7463794f",
         "114466c1-2ada-4295-a931-e96260323dfd",
         "4ca98d63-9965-4322-814c-b68c5f0377aa",
-        "0ecad33f-8ea0-4a03-bed0-ea40347c6b95"
+        "0ecad33f-8ea0-4a03-bed0-ea40347c6b95",
+        "aa0a25f4-5cea-46b9-a24b-43e1851ff47d"
     ],
     "tutorial": ""
 }

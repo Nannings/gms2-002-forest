@@ -303,6 +303,22 @@
             }
         },
         {
+            "Key": "3503b0f7-7c58-4b77-a358-97399351ae85",
+            "Value": {
+                "id": "e8056657-c8e4-4e9f-af75-3a62963be70d",
+                "resourcePath": "sprites\\s_tree\\s_tree.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "377908a8-8b41-464f-b84a-d84680fcaf3c",
+            "Value": {
+                "id": "3203d7b9-ac1f-4807-8946-08edc2a6bfd3",
+                "resourcePath": "scripts\\is_in_destroyed_list\\is_in_destroyed_list.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "389ee68e-bf28-4fdc-9fc0-6ecb1338fefc",
             "Value": {
                 "id": "f96e418f-fb72-410d-a79d-8860a302bc47",
@@ -420,6 +436,14 @@
                 "id": "8c0dacf0-60bd-48ea-acb6-b5d323d15734",
                 "resourcePath": "sprites\\s_stamina_ui\\s_stamina_ui.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "494f73a0-2689-4c1f-9ae0-ac3169863066",
+            "Value": {
+                "id": "e17a0875-7e42-4c38-a8f0-3007bb3961a4",
+                "resourcePath": "objects\\o_bush\\o_bush.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -751,6 +775,14 @@
             }
         },
         {
+            "Key": "7cde8213-dc4f-4c6e-a744-b5bba269e887",
+            "Value": {
+                "id": "cc1711d9-20a6-4170-bcca-2fd1e887b4cf",
+                "resourcePath": "sprites\\s_sword_item_strip2\\s_sword_item_strip2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7d28e4ca-acf7-4b8e-b57c-9d4a268d1b94",
             "Value": {
                 "id": "719e9b55-235c-47d9-8246-6c112df55ce6",
@@ -843,6 +875,14 @@
             "Value": {
                 "id": "b7516853-01f1-4469-bc3f-a5707c91abbf",
                 "resourcePath": "sprites\\s_bow_ui\\s_bow_ui.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9275aa99-dfbe-4091-a173-d26808c14b08",
+            "Value": {
+                "id": "45a57860-9c7d-4e2a-9ddf-959789888e78",
+                "resourcePath": "sprites\\s_bush\\s_bush.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1391,6 +1431,14 @@
             }
         },
         {
+            "Key": "f9d62219-c4e7-4c66-be53-68feada424c1",
+            "Value": {
+                "id": "b4261e91-28ec-4478-9f80-ebc678f2c4cc",
+                "resourcePath": "scripts\\add_to_destroyed_list\\add_to_destroyed_list.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f9f1f954-4f6c-4ce0-b0d2-8449013b1480",
             "Value": {
                 "id": "d0351dce-203d-4923-942c-28106cca7e2a",
@@ -1431,7 +1479,9 @@
         "114466c1-2ada-4295-a931-e96260323dfd",
         "4ca98d63-9965-4322-814c-b68c5f0377aa",
         "0ecad33f-8ea0-4a03-bed0-ea40347c6b95",
-        "aa0a25f4-5cea-46b9-a24b-43e1851ff47d"
+        "aa0a25f4-5cea-46b9-a24b-43e1851ff47d",
+        "f9d62219-c4e7-4c66-be53-68feada424c1",
+        "377908a8-8b41-464f-b84a-d84680fcaf3c"
     ],
     "tutorial": ""
 }

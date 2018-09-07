@@ -583,6 +583,14 @@
             }
         },
         {
+            "Key": "563fdb85-fcf2-48b5-aee9-50326eaf93a3",
+            "Value": {
+                "id": "5f31d693-3c0e-4dce-bca6-e518bf4e5b5f",
+                "resourcePath": "scripts\\ini_write_inventory\\ini_write_inventory.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "56d90d81-e183-44eb-84e3-547b08c197c4",
             "Value": {
                 "id": "ab4fd2ba-0eb6-4a01-8b12-44463de25815",
@@ -1239,6 +1247,14 @@
             }
         },
         {
+            "Key": "cad236b1-a2cb-4d9c-9f2f-cd83b66b7c28",
+            "Value": {
+                "id": "76184e2c-4f28-45f7-8b49-f6df45893217",
+                "resourcePath": "scripts\\ini_read_inventory\\ini_read_inventory.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "2c420549-ae4e-4d3c-a586-db4e6e31cafc",
@@ -1515,7 +1531,9 @@
         "f9d62219-c4e7-4c66-be53-68feada424c1",
         "377908a8-8b41-464f-b84a-d84680fcaf3c",
         "57f6044c-1b1f-4e04-9ea4-947e28a92b24",
-        "0455d6d8-9d68-4ce0-bd94-91f21d404573"
+        "0455d6d8-9d68-4ce0-bd94-91f21d404573",
+        "563fdb85-fcf2-48b5-aee9-50326eaf93a3",
+        "cad236b1-a2cb-4d9c-9f2f-cd83b66b7c28"
     ],
     "tutorial": ""
 }

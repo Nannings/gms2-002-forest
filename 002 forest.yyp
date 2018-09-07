@@ -487,6 +487,14 @@
             }
         },
         {
+            "Key": "4cd9ef4a-5e1f-4a4c-a615-2a5fc41643e0",
+            "Value": {
+                "id": "2594a155-b859-4d6d-83dc-09e57832a976",
+                "resourcePath": "scripts\\instance_key\\instance_key.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4d5156a2-8915-47a0-8105-fc514f0bb37c",
             "Value": {
                 "id": "4ec11e1c-0baa-49d2-b0e2-c731152fd4c5",
@@ -1143,6 +1151,14 @@
             }
         },
         {
+            "Key": "b380286f-6cd7-4287-aae9-b4ea95bdfe35",
+            "Value": {
+                "id": "a828b8e3-118d-4987-a7a6-82700aabca9e",
+                "resourcePath": "scripts\\ini_read_string_array\\ini_read_string_array.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b7be7987-5487-4f3d-ab7e-15ca932e49d6",
             "Value": {
                 "id": "cb55f97f-8021-4a2b-bde6-4f3f03364946",
@@ -1267,6 +1283,14 @@
             "Value": {
                 "id": "57cb2f2d-f09c-4592-a965-302916d15552",
                 "resourcePath": "scripts\\create_animation_effect\\create_animation_effect.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ce81c8ab-74dd-49b2-8e67-d04487c41b10",
+            "Value": {
+                "id": "21a11b17-2ec2-41ad-be30-603cae6e2b46",
+                "resourcePath": "scripts\\ini_write_string_array\\ini_write_string_array.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -1533,7 +1557,10 @@
         "57f6044c-1b1f-4e04-9ea4-947e28a92b24",
         "0455d6d8-9d68-4ce0-bd94-91f21d404573",
         "563fdb85-fcf2-48b5-aee9-50326eaf93a3",
-        "cad236b1-a2cb-4d9c-9f2f-cd83b66b7c28"
+        "cad236b1-a2cb-4d9c-9f2f-cd83b66b7c28",
+        "4cd9ef4a-5e1f-4a4c-a615-2a5fc41643e0",
+        "ce81c8ab-74dd-49b2-8e67-d04487c41b10",
+        "b380286f-6cd7-4287-aae9-b4ea95bdfe35"
     ],
     "tutorial": ""
 }

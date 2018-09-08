@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "44c21c30-1082-4b11-a2fa-0795493429a2",
+            "Value": {
+                "id": "80a5316a-0c00-42c3-9926-3d87070722e3",
+                "resourcePath": "scripts\\set_player_found_item\\set_player_found_item.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "45a56bec-3873-45e9-b968-1ff8cd1fd7ec",
             "Value": {
                 "id": "cdb3df5a-9727-4271-8691-aaa0bacceb97",
@@ -514,7 +522,7 @@
             "Key": "4e842660-25ca-4093-93ac-0aecd7578d12",
             "Value": {
                 "id": "25d3ec1e-b341-4560-b3bc-162980679f24",
-                "resourcePath": "sounds\\Key_Item\\Key_Item.yy",
+                "resourcePath": "sounds\\a_key_item\\a_key_item.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -818,7 +826,7 @@
             "Key": "7cde8213-dc4f-4c6e-a744-b5bba269e887",
             "Value": {
                 "id": "cc1711d9-20a6-4170-bcca-2fd1e887b4cf",
-                "resourcePath": "sprites\\s_sword_item_strip2\\s_sword_item_strip2.yy",
+                "resourcePath": "sprites\\s_sword_stand\\s_sword_stand.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -915,6 +923,14 @@
             "Value": {
                 "id": "b7516853-01f1-4469-bc3f-a5707c91abbf",
                 "resourcePath": "sprites\\s_bow_ui\\s_bow_ui.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9121736a-3a95-44f7-bac2-41e95df9c731",
+            "Value": {
+                "id": "d59d79f7-c1c3-4997-b5b7-f69f5e277613",
+                "resourcePath": "sprites\\s_player_found_item\\s_player_found_item.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1423,6 +1439,14 @@
             }
         },
         {
+            "Key": "e99f49b1-0dc5-4c39-a837-0ca42af883fc",
+            "Value": {
+                "id": "4ea497d4-3ad4-4765-941e-14f50b2a7813",
+                "resourcePath": "objects\\o_interactable\\o_interactable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ed2957f3-7c24-4c1e-b878-ca2087a5f763",
             "Value": {
                 "id": "a08be6f3-5cd8-4a15-b878-b1af957a1c6d",
@@ -1471,6 +1495,14 @@
             }
         },
         {
+            "Key": "f02496aa-3c64-4936-8d1c-a5e077220db1",
+            "Value": {
+                "id": "409bca5d-1e2a-477c-999e-4d569b7b867d",
+                "resourcePath": "objects\\o_tree\\o_tree.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f3820e06-c6d9-41fd-8af2-6bf9b14e98bc",
             "Value": {
                 "id": "f772c26f-9494-4480-b784-7342b5bf5d09",
@@ -1492,6 +1524,14 @@
                 "id": "a0b093d2-b3a9-46e7-959e-81884c034f14",
                 "resourcePath": "scripts\\create_hitbox\\create_hitbox.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f8b47202-b9cc-4fc9-92cc-37923212b309",
+            "Value": {
+                "id": "d9a3e3af-b326-4d3c-bd9f-1d059c019dfa",
+                "resourcePath": "objects\\o_sword_stand\\o_sword_stand.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1560,7 +1600,8 @@
         "cad236b1-a2cb-4d9c-9f2f-cd83b66b7c28",
         "4cd9ef4a-5e1f-4a4c-a615-2a5fc41643e0",
         "ce81c8ab-74dd-49b2-8e67-d04487c41b10",
-        "b380286f-6cd7-4287-aae9-b4ea95bdfe35"
+        "b380286f-6cd7-4287-aae9-b4ea95bdfe35",
+        "44c21c30-1082-4b11-a2fa-0795493429a2"
     ],
     "tutorial": ""
 }

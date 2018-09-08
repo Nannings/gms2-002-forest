@@ -1,5 +1,6 @@
 initialize_movement_entity(.5, 1, o_solid);
 initialize_hurtbox_entity();
+
 image_speed = 0;
 acceleration_ = 0.5;
 max_speed_ = 1.5;
@@ -8,6 +9,7 @@ speed_ = 2;
 direction_facing_ = dir.right;
 direction_ = 0;
 roll_direction_ = 0;
+found_item_sprite_ = noone;
 
 alarm[1] = global.one_second;
 
@@ -50,6 +52,11 @@ sprite_[player.hit, dir.right] = s_player_run_right;
 sprite_[player.hit, dir.up] = s_player_run_up;
 sprite_[player.hit, dir.left] = s_player_run_right;
 sprite_[player.hit, dir.down] = s_player_run_down;
+
+sprite_[player.found_item, dir.right] = s_player_found_item;
+sprite_[player.found_item, dir.up] = s_player_found_item;
+sprite_[player.found_item, dir.left] = s_player_found_item;
+sprite_[player.found_item, dir.down] = s_player_found_item;
 
 sprite_[player.bomb, dir.right] = s_player_run_right;
 sprite_[player.bomb, dir.up] = s_player_run_up;

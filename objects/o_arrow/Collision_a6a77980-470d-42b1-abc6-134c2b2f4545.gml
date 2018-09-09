@@ -1,9 +1,9 @@
 if image_angle == 0 || image_angle == 180 
 {
-    if !collision_rectangle(bbox_left, bbox_top - 7, bbox_right, bbox_bottom - 7, o_solid, false, false) 
+    if y < other.bbox_top + 5
 	{
-        exit;
-    }
+		exit;
+	}
 }
 
 var _arrow_hit = instance_create_layer(x, y - 7, "Instances", o_arrow_hit);

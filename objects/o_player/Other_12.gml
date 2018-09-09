@@ -1,5 +1,9 @@
 /// @description Evade state
 image_speed = .7;
+if animation_hit_frame(0)
+{
+	audio_play_sound(a_evade, 2, false);
+}
 
 set_movement(roll_direction_, roll_speed_);
 move_movement_entity(false);

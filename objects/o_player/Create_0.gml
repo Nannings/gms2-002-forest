@@ -13,7 +13,8 @@ found_item_sprite_ = noone;
 
 alarm[1] = global.one_second;
 
-enum player {
+enum player 
+{
 	move,
 	sword,
 	evade,
@@ -23,15 +24,23 @@ enum player {
 	hit
 }
 
-enum dir {
+enum dir 
+{
 	right,
 	up,
 	left,
 	down
 }
 
+enum action 
+{
+	one,
+	two
+}
+
 starting_state_ = player.move;
 state_ = starting_state_;
+action_ = noone;
 
 sprite_[player.move, dir.right] = s_player_run_right;
 sprite_[player.move, dir.up] = s_player_run_up;
